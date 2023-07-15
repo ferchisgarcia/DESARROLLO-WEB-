@@ -1,0 +1,9 @@
+Algoritmo AREA_CIRCUNFERENCIA 
+	definir radio Como Entero
+	definir area  Como Real 
+	definir perimetro como real
+	escribir "digite el valor del radio"
+	Leer radio
+	area = pi*radio*radio
+	escribir "el área de la circunferencia es:" , area, " y el perímetro es:", perimetro 	
+FinAlgoritmo
