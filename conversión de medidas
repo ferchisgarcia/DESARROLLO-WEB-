@@ -1,0 +1,12 @@
+Algoritmo  conversiones  
+	definir a como real 
+	definir b como real 
+	definir c como real
+	definir x como real 
+	escribir"digite los metros"
+	leer a
+	x=a*100
+	b=a*1000
+	c=a*39.3701
+	Escribir"en centimetros son ",x,"el milimetros son  ",b,"en pulgadas son  ",c
+FinAlgoritmo
