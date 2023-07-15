@@ -1,0 +1,14 @@
+Algoritmo promedio 
+	definir a como real 
+	definir b como real 
+	definir c como real
+	definir x como real 
+	escribir"digite el valor del producto 1"
+	leer a
+	escribir"digite el valor del producto 2"
+	leer b
+	escribir"digite el valor del producto 3"
+	leer c
+	x=(a+b+c)/3
+	escribir "el promedio de los productos de los distintos establecimientos es   ",x
+FinAlgoritmo
