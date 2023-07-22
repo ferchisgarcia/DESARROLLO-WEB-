@@ -40,7 +40,7 @@
     <body id="FONDO">
         <script>
 
-            window.alert("Holaaa tuuu");
+            window.alert("Holaaa tuuu!!");
   
         </script>
   
@@ -52,7 +52,7 @@
   
             var nombre;
   
-            nombre=window.prompt("como te llamas ");
+            nombre=window.prompt(" ¿Cómo te llamas? ");
   
             document.write("Bienvenid@ ");
   
